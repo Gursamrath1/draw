@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Score {
+    margin-left: 20px;
+}
+
+#Timer {
+    margin-right: 20px;
+    float:right;
+}
+
+#h1 {
+    font-size: 35px
+}
+
+#sketchtobedrawn {
+    color: red;
+}
+
+span {
+    padding-top: 10px;
+    font-family: 'Special Elite', fantasy;
+    font-size: 25px;
+}
